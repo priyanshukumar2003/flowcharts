@@ -1,0 +1,6 @@
+# Ignore all drawIO files
+*.drawio
+
+# Ignore all test files
+testing.svg
+testing.png
